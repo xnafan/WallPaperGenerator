@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WallpaperGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"d:\\test\" "
+    }
+  }
+}
